@@ -1,7 +1,6 @@
 ﻿/**
  * Name: Raj Pankajkumar Patel
- * Student Number: 000744572
- * Statement of Authoroship: I, Raj Patel, 000744572 certify that this material is my original work. No other person's work has been used without due acknowledgement.
+ * Statement of Authoroship: I, Raj Patel, certify that this material is my original work. No other person's work has been used without due acknowledgement.
  * Date: 6th February 2019
  * 
  * */
